@@ -1,4 +1,4 @@
-# 👋 Hey, I’m dvnx  
+# 👋 Hey, I’m DVNX
 
 Getting back into coding after a break, building small Python projects, and loving the process of learning again.  
 
